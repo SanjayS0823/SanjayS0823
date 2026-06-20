@@ -33,19 +33,31 @@
 
 ## 🧠 About Me
 
-```python
-class SanjayS:
-    def __init__(self):
-        self.role = "CSE (AI & ML) Undergraduate"
-        self.year = "3rd Year, B.E."
-        self.college = "Global Academy of Technology, Bangalore"
-        self.focus = ["Artificial Intelligence", "Machine Learning", "Full Stack Development"]
-        self.current_build = ["AI-powered applications", "Full Stack web platforms"]
-        self.open_to = ["Internships", "Collaborations", "Learning Opportunities"]
+<table>
+<tr>
+<td valign="top" width="50%">
 
-    def mission(self):
-        return "Solving real-world problems through intelligent, scalable technology"
-```
+**🎓 Education**
+B.E. in Computer Science & Engineering (AI & ML)
+3rd Year — Global Academy of Technology, Bangalore
+
+**🎯 Focus Areas**
+Artificial Intelligence · Machine Learning · Full Stack Development
+
+</td>
+<td valign="top" width="50%">
+
+**🛠️ Currently Building**
+AI-powered applications & Full Stack web platforms
+
+**🤝 Open To**
+Internships · Collaborations · Learning Opportunities
+
+</td>
+</tr>
+</table>
+
+> 💡 **Mission:** Solving real-world problems through intelligent, scalable technology.
 
 <br/>
 
